@@ -1,0 +1,48 @@
+{
+  "category": "DEMON_ANGEL",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/empusa",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "empusa",
+    "name": "Empusa",
+    "aliases": [
+      {
+        "name": "Empusae"
+      },
+      {
+        "name": "Empuse"
+      },
+      {
+        "name": "Empousa"
+      }
+    ],
+    "category": "DEMON_ANGEL",
+    "subcategory": "Vampire demon",
+    "tags": [
+      "demon",
+      "nightmare",
+      "malevolent",
+      "folklore"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Greek demon with flaming hair and bronze leg who seduces and feeds on young men's blood",
+      "full": "Greek demon with flaming hair and bronze leg who seduces and feeds on young men's blood"
+    }
+  }
+}
